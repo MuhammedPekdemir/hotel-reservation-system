@@ -27,9 +27,15 @@ Microsoft.Data.SqlClient
 
 Proje Yapısı
 ├── Oda.cs               → Oda class
+
 ├── Musteri.cs           → Musteri class
+
 ├── Rezervasyon.cs       → Rezervasyon class
+
 ├── Yonetici.cs          → Yonetici class (SQL bağlantıları)
+
 ├── Program.cs           → Ana menü
+
 ├── OtelProjesi.csproj   → Proje dosyası
+
 └── OtelRezervasyon.sql  → Veritabanı kurulum scripti
