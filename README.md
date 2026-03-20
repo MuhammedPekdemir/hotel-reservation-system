@@ -26,6 +26,7 @@ Microsoft.Data.SqlClient
 
 
 Proje Yapısı
+
 ├── Oda.cs               → Oda class
 
 ├── Musteri.cs           → Musteri class
